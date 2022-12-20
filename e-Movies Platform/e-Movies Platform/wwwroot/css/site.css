@@ -16,3 +16,18 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.genre-details{
+    text-decoration: none;
+}
+
+.back-button{
+    width: 90px;
+    height: 30px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+    font-weight: 600;
+}

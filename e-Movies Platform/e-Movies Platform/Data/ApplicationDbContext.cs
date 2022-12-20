@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using e_Movies_Platform.Models;
 
 namespace e_Movies_Platform.Data
 {
@@ -9,5 +10,6 @@ namespace e_Movies_Platform.Data
             : base(options)
         {
         }
+        public DbSet<e_Movies_Platform.Models.Genre> Genre { get; set; }
     }
 }
