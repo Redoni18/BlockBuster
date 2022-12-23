@@ -10770,19 +10770,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+    "C:\\Users\\vulln\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\New folder\\BlockBuster\\BlockBuster\\e-Movies Platform\\e-Movies Platform\\e-Movies Platform.csproj",
+      "projectUniqueName": "C:\\Users\\vulln\\Desktop\\e-Movies\\BlockBuster\\e-Movies Platform\\e-Movies Platform\\e-Movies Platform.csproj",
       "projectName": "e-Movies Platform",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\New folder\\BlockBuster\\BlockBuster\\e-Movies Platform\\e-Movies Platform\\e-Movies Platform.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Desktop\\New folder\\BlockBuster\\BlockBuster\\e-Movies Platform\\e-Movies Platform\\obj\\",
+      "projectPath": "C:\\Users\\vulln\\Desktop\\e-Movies\\BlockBuster\\e-Movies Platform\\e-Movies Platform\\e-Movies Platform.csproj",
+      "packagesPath": "C:\\Users\\vulln\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\vulln\\Desktop\\e-Movies\\BlockBuster\\e-Movies Platform\\e-Movies Platform\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\vulln\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -10866,7 +10866,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
